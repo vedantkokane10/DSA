@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Subsequences with sum equal to  k
 
 // gives all the sub-sequence
 void helper(int ind,vector<int> &arr,vector<int> &sample,int &sum,int target){
